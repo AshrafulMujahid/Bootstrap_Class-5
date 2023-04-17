@@ -1,0 +1,22 @@
+*{
+    font-size: 10px; /*Default size was 16px and now 10px*/
+    margin-bottom: 10px;
+}
+p{
+    font-size: 2rem;/*1rem=16px*/
+    text-align: center;
+}
+#pixel{
+    font-size: 32px;
+}
+.container{
+    background-color: #8ef2f2;
+    text-align: center;
+}
+.description{
+    text-align: center;
+}
+kbd{
+    color: crimson;
+    background-color: aqua;
+}
